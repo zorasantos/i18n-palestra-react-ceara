@@ -1,0 +1,43 @@
+{
+  "first_name": {
+    "label": "Vorname",
+    "placeholder": "Geben Sie Ihren Vornamen ein",
+    "message_error": "Vorname ist erforderlich"
+  },
+  "last_name": {
+    "label": "Nachname",
+    "placeholder": "Geben Sie Ihren Nachnamen ein",
+    "message_error": "Nachname ist erforderlich"
+  },
+  "address": {
+    "label": "Adresse",
+    "placeholder": "Geben Sie Ihre Adresse ein",
+    "message_error": "Adresse ist erforderlich"
+  },
+  "phone_number": {
+    "label": "Telefonnummer",
+    "placeholder": "Geben Sie Ihre Telefonnummer ein",
+    "message_error": "Telefonnummer ist erforderlich"
+  },
+  "city": {
+    "label": "Stadt",
+    "placeholder": "Geben Sie Ihre Stadt ein",
+    "message_error": "Stadt ist erforderlich"
+  },
+  "email": {
+    "label": "E-Mail Adresse",
+    "placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "message_error": "E-Mail-Adresse ist erforderlich"
+  },
+  "password": {
+    "label": "Passwort",
+    "placeholder": "Geben Sie Ihr Passwort ein",
+    "message_error": "Passwort ist erforderlich"
+  },
+  "confirm_password": {
+    "label": "Passwort bestätigen",
+    "placeholder": "Bestätigen Sie Ihr Passwort",
+    "message_error": "Passwortbestätigung ist erforderlich"
+  },
+  "submit_button": "Registrieren"
+}

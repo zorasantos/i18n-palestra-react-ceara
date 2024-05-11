@@ -1,0 +1,43 @@
+{
+  "first_name": {
+    "label": "First name",
+    "placeholder": "Enter your first name",
+    "message_error": "First name is required"
+  },
+  "last_name": {
+    "label": "Last name",
+    "placeholder": "Enter your last name",
+    "message_error": "Last name is required"
+  },
+  "address": {
+    "label": "Address",
+    "placeholder": "Enter your address",
+    "message_error": "Address is required"
+  },
+  "phone_number": {
+    "label": "Phone number",
+    "placeholder": "Enter your phone number",
+    "message_error": "Phone number is required"
+  },
+  "city": {
+    "label": "City",
+    "placeholder": "Enter your city",
+    "message_error": "City is required"
+  },
+  "email": {
+    "label": "Email address",
+    "placeholder": "Enter your email address",
+    "message_error": "Email address is required"
+  },
+  "password": {
+    "label": "Password",
+    "placeholder": "Enter your password",
+    "message_error": "Password is required"
+  },
+  "confirm_password": {
+    "label": "Confirm password",
+    "placeholder": "Confirm your password",
+    "message_error": "Password confirmation is required"
+  },
+  "submit_button": "Submit"
+}

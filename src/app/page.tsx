@@ -1,5 +1,4 @@
-import TextField from "@/components/TextFielt";
-import Image from "next/image";
+import TextField from "@/components/TextField";
 
 export default function Home() {
   return (

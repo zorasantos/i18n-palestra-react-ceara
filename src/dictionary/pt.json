@@ -1,0 +1,43 @@
+{
+  "first_name": {
+    "label": "Nome",
+    "placeholder": "Digite seu nome",
+    "message_error": "Nome é obrigatório"
+  },
+  "last_name": {
+    "label": "Sobrenome",
+    "placeholder": "Digite seu sobrenome",
+    "message_error": "Sobrenome é obrigatório"
+  },
+  "address": {
+    "label": "Endereço",
+    "placeholder": "Digite seu endereço",
+    "message_error": "Endereço é obrigatório"
+  },
+  "phone_number": {
+    "label": "Número de telefone",
+    "placeholder": "Digite seu número de telefone",
+    "message_error": "Número de telefone é obrigatório"
+  },
+  "city": {
+    "label": "Cidade",
+    "placeholder": "Digite sua cidade",
+    "message_error": "Cidade é obrigatória"
+  },
+  "email": {
+    "label": "Endereço de email",
+    "placeholder": "Digite seu endereço de email",
+    "message_error": "Endereço de email é obrigatório"
+  },
+  "password": {
+    "label": "Senha",
+    "placeholder": "Digite sua senha",
+    "message_error": "Senha é obrigatória"
+  },
+  "confirm_password": {
+    "label": "Confirme a senha",
+    "placeholder": "Confirme sua senha",
+    "message_error": "Confirmação de senha é obrigatória"
+  },
+  "submit_button": "Enviar"
+}
