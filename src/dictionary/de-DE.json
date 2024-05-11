@@ -1,4 +1,14 @@
 {
+  "select": {
+    "label": "Wählen Sie eine Sprache",
+    "disable_options": "Wählen Sie eine Sprache",
+    "options": {
+      "en": "Englisch",
+      "de": "Deutsch",
+      "pt": "Portugiesisch",
+      "id": "Indu"
+    }
+  },
   "first_name": {
     "label": "Vorname",
     "placeholder": "Geben Sie Ihren Vornamen ein",
@@ -39,5 +49,5 @@
     "placeholder": "Bestätigen Sie Ihr Passwort",
     "message_error": "Passwortbestätigung ist erforderlich"
   },
-  "submit_button": "Registrieren"
+  "submit_button": { "text": "Registrieren" }
 }

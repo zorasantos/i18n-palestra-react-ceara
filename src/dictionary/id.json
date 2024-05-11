@@ -1,0 +1,53 @@
+{
+  "select": {
+    "label": "Pilih bahasa",
+    "disable_options": "Pilih bahasa",
+    "options": {
+      "en": "Inggris",
+      "de": "Jerman",
+      "pt": "Portugis",
+      "id": "Indu"
+    }
+  },
+  "first_name": {
+    "label": "Nama depan",
+    "placeholder": "Masukkan nama depan Anda",
+    "message_error": "Nama depan diperlukan"
+  },
+  "last_name": {
+    "label": "Nama belakang",
+    "placeholder": "Masukkan nama belakang Anda",
+    "message_error": "Nama belakang diperlukan"
+  },
+  "address": {
+    "label": "Alamat",
+    "placeholder": "Masukkan alamat Anda",
+    "message_error": "Alamat diperlukan"
+  },
+  "phone_number": {
+    "label": "Nomor telepon",
+    "placeholder": "Masukkan nomor telepon Anda",
+    "message_error": "Nomor telepon diperlukan"
+  },
+  "city": {
+    "label": "Kota",
+    "placeholder": "Masukkan kota Anda",
+    "message_error": "Kota diperlukan"
+  },
+  "email": {
+    "label": "Alamat email",
+    "placeholder": "Masukkan alamat email Anda",
+    "message_error": "Alamat email diperlukan"
+  },
+  "password": {
+    "label": "Kata sandi",
+    "placeholder": "Masukkan kata sandi Anda",
+    "message_error": "Kata sandi diperlukan"
+  },
+  "confirm_password": {
+    "label": "Konfirmasi kata sandi",
+    "placeholder": "Konfirmasi kata sandi Anda",
+    "message_error": "Konfirmasi kata sandi diperlukan"
+  },
+  "submit_button": { "text": "Daftar" }
+}

@@ -1,4 +1,14 @@
 {
+  "select": {
+    "label": "Selecione um idioma",
+    "disable_options": "Escolha um idioma",
+    "options": {
+      "en": "Inglês",
+      "de": "Alemão",
+      "pt": "Português",
+      "id": "Indu"
+    }
+  },
   "first_name": {
     "label": "Nome",
     "placeholder": "Digite seu nome",
@@ -39,5 +49,5 @@
     "placeholder": "Confirme sua senha",
     "message_error": "Confirmação de senha é obrigatória"
   },
-  "submit_button": "Enviar"
+  "submit_button": { "text": "Enviar" }
 }

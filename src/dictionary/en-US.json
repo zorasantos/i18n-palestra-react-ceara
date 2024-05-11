@@ -1,4 +1,14 @@
 {
+  "select": {
+    "label": "Select a language",
+    "disable_options": "Choose a language",
+    "options": {
+      "en": "English",
+      "de": "Deutsch",
+      "pt": "Portuguese",
+      "id": "Indu"
+    }
+  },
   "first_name": {
     "label": "First name",
     "placeholder": "Enter your first name",
@@ -39,5 +49,5 @@
     "placeholder": "Confirm your password",
     "message_error": "Password confirmation is required"
   },
-  "submit_button": "Submit"
+  "submit_button": { "text": "Submit" }
 }

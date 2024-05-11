@@ -23,7 +23,6 @@ const TextField: React.FC<InputFieldProps> = ({ id, label, placeholder, darkMode
         id={id}
         className={inputClassName}
         placeholder={placeholder}
-        required
         {...rest}
       />
     </div>
